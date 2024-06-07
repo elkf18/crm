@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777436952855",
+    "project_id": "kih-apps",
+    "storage_bucket": "kih-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777436952855:android:06e491a1fd9c9b88701f52",
+        "android_client_info": {
+          "package_name": "com.andromedia.mitradiagnostic.analyst.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777436952855-rsk4enhmjku3iirf1v1ae3em3qnhlnei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMMJM_5cfKMNSlS6XiMXP_-T2JvQ2tf5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777436952855-rsk4enhmjku3iirf1v1ae3em3qnhlnei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
